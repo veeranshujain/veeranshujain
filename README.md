@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Veeranshu 👋
 
-<!--
-**veeranshujain/veeranshujain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student learning **Data Science and Machine Learning** through hands-on projects.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tools
+- Python, NumPy, Pandas
+- Matplotlib, Seaborn
+- SQL, MySQL
+- Scikit-learn, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Project
+
+**[E-Commerce Customer Churn Prediction](https://github.com/veeranshujain/ecommerce-customer-churn)**
+
+- Analyzed online retail transaction data and engineered customer-level features.
+- Compared Logistic Regression and Random Forest models.
+- Preliminary Logistic Regression ROC-AUC: **0.688** *(pending validation)*.
+
+### 🔗 Connect
+[LinkedIn](https://www.linkedin.com/in/veerjain07)
+
+*Currently learning, building projects, and improving my skills in Data Science and ML.*
